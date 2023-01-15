@@ -100,11 +100,11 @@ To make people suffering from defective color vision feel more comfortable, all 
 
 ## Install
 
-Windows: [download](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/Windows.zip)
+Windows: [download here](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/Windows.zip)
 
-macOS: [download](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/MacOS.zip)
+macOS: [download here](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/MacOS.zip)
 
-Linux: [download](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/Linux.zip)
+Linux: [download here](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/Linux.zip)
 
 ## References
 
