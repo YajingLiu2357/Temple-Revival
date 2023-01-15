@@ -4,6 +4,10 @@ Temple Revival is a mini 2.5D Sokoban game implemented with Unity. In this game,
 
 I developed this game individually in 2021 to learn the design issues in COMP311 Multimedia Application Development. 
 
+## Major Techniques and Tools Used
+- C#
+- Unity
+
 ## Media
 
 Different media are applied in this game. For instance, text, audio, images, and animation are provided in this game. Notably, the background music is used for audio and the smooth changes between the different moving statuses of the character are used for animation.
