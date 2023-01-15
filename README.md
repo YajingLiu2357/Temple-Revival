@@ -98,6 +98,14 @@ To make people suffering from defective color vision feel more comfortable, all 
 
  ![TonalContrast](./images/TonalContrast.png)
 
+## Install
+
+Windows: [download](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/Windows.zip)
+
+macOS: [download](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/MacOS.zip)
+
+Linux: [download](https://github.com/YajingLiu2357/Temple-Revival/blob/main/install/Linux.zip)
+
 ## References
 
 1. Developing Platform: [Unity](https://unity.com/)
